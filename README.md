@@ -4,7 +4,7 @@ Single-file FastAPI application
 
 Features:
 - Feature flag creation & updates
-- Environment targeting (dev/staging/prod)
+- Environment targeting 
 - Percentage rollouts
 - In-memory caching
 - Cache invalidation
